@@ -1,1 +1,3 @@
-# mesh_resources
+# mesh resources
+
+Licenses: code: LGPL-2.1, media: CC BY-SA-4.0
